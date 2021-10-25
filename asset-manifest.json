@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bleusreactportfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/bleusreactportfolio/static/js/main.1a3e3f98.chunk.js",
+    "main.js.map": "/bleusreactportfolio/static/js/main.1a3e3f98.chunk.js.map",
+    "runtime-main.js": "/bleusreactportfolio/static/js/runtime-main.ccd73cc6.js",
+    "runtime-main.js.map": "/bleusreactportfolio/static/js/runtime-main.ccd73cc6.js.map",
+    "static/js/2.def428fa.chunk.js": "/bleusreactportfolio/static/js/2.def428fa.chunk.js",
+    "static/js/2.def428fa.chunk.js.map": "/bleusreactportfolio/static/js/2.def428fa.chunk.js.map",
+    "static/js/3.e0d5331f.chunk.js": "/bleusreactportfolio/static/js/3.e0d5331f.chunk.js",
+    "static/js/3.e0d5331f.chunk.js.map": "/bleusreactportfolio/static/js/3.e0d5331f.chunk.js.map",
+    "index.html": "/bleusreactportfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bleusreactportfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.def428fa.chunk.js.LICENSE.txt": "/bleusreactportfolio/static/js/2.def428fa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bleusreactportfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccd73cc6.js",
+    "static/js/2.def428fa.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1a3e3f98.chunk.js"
+  ]
+}
