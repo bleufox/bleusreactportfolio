@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bleusreactportfolio/static/css/main.bb2f7e3e.chunk.css",
-    "main.js": "/bleusreactportfolio/static/js/main.9c2e2b77.chunk.js",
-    "main.js.map": "/bleusreactportfolio/static/js/main.9c2e2b77.chunk.js.map",
+    "main.css": "/bleusreactportfolio/static/css/main.ee6ea6ea.chunk.css",
+    "main.js": "/bleusreactportfolio/static/js/main.e9be49b7.chunk.js",
+    "main.js.map": "/bleusreactportfolio/static/js/main.e9be49b7.chunk.js.map",
     "runtime-main.js": "/bleusreactportfolio/static/js/runtime-main.98ae6ee7.js",
     "runtime-main.js.map": "/bleusreactportfolio/static/js/runtime-main.98ae6ee7.js.map",
     "static/js/2.4d4ea1f0.chunk.js": "/bleusreactportfolio/static/js/2.4d4ea1f0.chunk.js",
     "static/js/2.4d4ea1f0.chunk.js.map": "/bleusreactportfolio/static/js/2.4d4ea1f0.chunk.js.map",
     "index.html": "/bleusreactportfolio/index.html",
-    "static/css/main.bb2f7e3e.chunk.css.map": "/bleusreactportfolio/static/css/main.bb2f7e3e.chunk.css.map",
+    "static/css/main.ee6ea6ea.chunk.css.map": "/bleusreactportfolio/static/css/main.ee6ea6ea.chunk.css.map",
     "static/js/2.4d4ea1f0.chunk.js.LICENSE.txt": "/bleusreactportfolio/static/js/2.4d4ea1f0.chunk.js.LICENSE.txt",
     "static/media/ashley-jones.aedd07cb.jpg": "/bleusreactportfolio/static/media/ashley-jones.aedd07cb.jpg",
     "static/media/App.css": "/bleusreactportfolio/static/media/background-img.f1b2261b.jpg"
@@ -16,7 +16,7 @@
   "entrypoints": [
     "static/js/runtime-main.98ae6ee7.js",
     "static/js/2.4d4ea1f0.chunk.js",
-    "static/css/main.bb2f7e3e.chunk.css",
-    "static/js/main.9c2e2b77.chunk.js"
+    "static/css/main.ee6ea6ea.chunk.css",
+    "static/js/main.e9be49b7.chunk.js"
   ]
 }
