@@ -4,7 +4,7 @@ import ProfileImage from '../images/ashley-jones.jpg'
 function AvatarBio() {
     return (
         <React.Fragment>
-            <img src={ProfileImage} alt="Ashley-Jones" height="460px" width="460px"/>
+            <img src={ProfileImage} alt="Ashley-Jones" height="350px" width="350px"/>
             <h1> Ashley Jones</h1>
             <h2>Full Stack Web Developer</h2>
             <div>
