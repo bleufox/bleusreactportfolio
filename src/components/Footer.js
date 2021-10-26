@@ -4,7 +4,7 @@ function Footer() {
     return (
         <React.Fragment>
             <footer>
-            <h4>Created by BleuFox 2021</h4>
+            <h3>Created by BleuFox 2021</h3>
             </footer>
         </React.Fragment>
     )

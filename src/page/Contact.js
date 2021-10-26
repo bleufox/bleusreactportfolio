@@ -7,7 +7,7 @@ function Projects() {
                 <h1>Ashley Jones</h1>
                 <h2>Junior Full Stack Web Developer</h2>
             </div>
-            <section id="portfolio" className="projects">
+            <section id="portfolio">
                 <div className="container">
                     <div className="contact-grid">
                         <a href="mailto:thebleufox8@gmail.com">
@@ -32,7 +32,7 @@ function Projects() {
                         </a>
                         <a href="https://www.instagram.com/juniperinwanderland/" target="blank" rel="noreferrer">
                             <div className="contact-project">
-                                <h3>Instagram</h3>
+                                <h3>IG</h3>
                             </div>
                         </a>
                     </div>
