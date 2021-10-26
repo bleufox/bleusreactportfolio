@@ -4,7 +4,7 @@ import AboutMe from './page/AboutMe'
 import Projects from './page/Projects'
 import Contact from './page/Contact'
 import NavBar from './components/NavBar'
-import Footer from './components/Footer'
+// import Footer from './components/Footer'
 
 function App() {
   const [currentPage, setCurrentPage] = useState('AboutMe');

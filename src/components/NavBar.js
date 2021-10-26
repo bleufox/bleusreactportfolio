@@ -3,8 +3,8 @@ import React from 'react';
 function NavBar({ currentPage, handlePageChange }) {
 
     return (
-        <section class='navbar-container'>
-            <div class="container">
+        <section className='navbar-container'>
+            <div className="container">
                 <ul className="nav nav-tabs">
                     <li className="nav-item"><span>
                         <a
