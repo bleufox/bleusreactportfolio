@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/bleusreactportfolio/static/css/main.254cdc66.chunk.css",
-    "main.js": "/bleusreactportfolio/static/js/main.1d046f8c.chunk.js",
-    "main.js.map": "/bleusreactportfolio/static/js/main.1d046f8c.chunk.js.map",
-    "runtime-main.js": "/bleusreactportfolio/static/js/runtime-main.a2bd2ff1.js",
-    "runtime-main.js.map": "/bleusreactportfolio/static/js/runtime-main.a2bd2ff1.js.map",
-    "static/js/2.e222408b.chunk.js": "/bleusreactportfolio/static/js/2.e222408b.chunk.js",
-    "static/js/2.e222408b.chunk.js.map": "/bleusreactportfolio/static/js/2.e222408b.chunk.js.map",
+    "main.js": "/bleusreactportfolio/static/js/main.58e5d1ea.chunk.js",
+    "main.js.map": "/bleusreactportfolio/static/js/main.58e5d1ea.chunk.js.map",
+    "runtime-main.js": "/bleusreactportfolio/static/js/runtime-main.98ae6ee7.js",
+    "runtime-main.js.map": "/bleusreactportfolio/static/js/runtime-main.98ae6ee7.js.map",
+    "static/js/2.4d4ea1f0.chunk.js": "/bleusreactportfolio/static/js/2.4d4ea1f0.chunk.js",
+    "static/js/2.4d4ea1f0.chunk.js.map": "/bleusreactportfolio/static/js/2.4d4ea1f0.chunk.js.map",
     "index.html": "/bleusreactportfolio/index.html",
     "static/css/main.254cdc66.chunk.css.map": "/bleusreactportfolio/static/css/main.254cdc66.chunk.css.map",
-    "static/js/2.e222408b.chunk.js.LICENSE.txt": "/bleusreactportfolio/static/js/2.e222408b.chunk.js.LICENSE.txt",
+    "static/js/2.4d4ea1f0.chunk.js.LICENSE.txt": "/bleusreactportfolio/static/js/2.4d4ea1f0.chunk.js.LICENSE.txt",
     "static/media/App.css": "/bleusreactportfolio/static/media/background-img.f1b2261b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2bd2ff1.js",
-    "static/js/2.e222408b.chunk.js",
+    "static/js/runtime-main.98ae6ee7.js",
+    "static/js/2.4d4ea1f0.chunk.js",
     "static/css/main.254cdc66.chunk.css",
-    "static/js/main.1d046f8c.chunk.js"
+    "static/js/main.58e5d1ea.chunk.js"
   ]
 }
